@@ -4,9 +4,10 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Chúc KTran tuổi mới ăn mau chóng lớn nha🥳🔥",
-  "Deadline bớt dí cho đời bớt mệt 😎✨",
-  "Lúc nào cũng cười zay nhé 🎁🎉"
+  "Chúc em bé của ảnh ăn mau chóng lớn nèee🥳🔥",
+  "Học giỏi nhenn, mau lụm học bổng!! 😎✨",
+  "Luôn luôn tươi cười và always with me nhee 🎁🎉",
+  "Love youu 🥰💖",
 ];
 
 giftBox.addEventListener('click', () => {
